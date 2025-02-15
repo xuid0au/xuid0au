@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-🔭 I’m currently working on learning to do Uni work.
+🔭 I’m currently working on studying TEP at https://www.cdu.edu.au/arts-society/tertiary-enabling-program-tep via Distance (Online only).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on YunoHost
 - 🤔 I’m looking for help with YunoHost & Debian Linux
