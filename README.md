@@ -9,5 +9,6 @@ Hi there 👋
 - 📫 How to reach me: https://xuid0.net (Hobby Page) or https://xuid0.me (Personal page).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have two kids, one dog and a awesome wife!
+- 
 <a href="https://ko-fi.com/xuid0" target="_blank" rel="noopener" role="button"> Support me on Ko-fi</a>
-</head></html>
+
